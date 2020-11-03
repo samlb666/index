@@ -24,8 +24,21 @@
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-weight: bold;
+    
+}
+
+.button-shape {
+    height: 40px;
+    width: 575px;
+    border-radius: 6px;
+  background-color: lightblue;
+  text-align: center;
+  opacity: 0.9;
+}
+
+.container {
     display: flex;
-  justify-content: center;
+    justify-content: center;
 }
 
 a {
