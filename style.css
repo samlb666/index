@@ -18,6 +18,16 @@
     font-weight: bold;
 }
 
+.item-title {
+    color: white;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: flex;
+  justify-content: center;
+}
+
 a {
     text-decoration: none;
 }
