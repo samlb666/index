@@ -1,6 +1,6 @@
 .site-title {
-    color: white;
-    font-size: 16px;
+    color: black;
+    font-size: 24px;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-weight: bold;
@@ -11,7 +11,7 @@
 }
 
 .nav-title {
-    color: white;
+    color: black;
     font-size: 18px;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
@@ -19,7 +19,7 @@
 }
 
 .item-title {
-    color: white;
+    color: black;
     font-size: 25px;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
@@ -72,11 +72,11 @@ ul li {
 }
 
 .footer-text {
-    color: white;
+    color: black;
     font-size: 10px;
     font-family: 'Roboto', sans-serif;
 }
 
 h1 {
-    color: white;
+    color: black;
 }
